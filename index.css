@@ -1,0 +1,81 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+	scroll-behavior: smooth;
+}
+
+body {
+	background-image:url("images/bg.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	padding: 0;
+}
+
+.container-fluid {
+	background-color: rgba(1, 1, 1, 0.5);
+}
+
+.nav-link {
+	color: white;
+	font-family: 'Kaushan Script', cursive;
+	padding: 2em;
+}
+
+h1 {
+	color: white;
+	font-family: 'Kaushan Script', cursive;
+	text-align: center;
+	
+}
+
+p {
+	color: white;
+	font-family: "Courier New", monospace;;
+	text-align: center;
+	padding-top: 8rem;
+}
+
+.jumbotron {
+	background-color: rgba(255, 255, 255, 0.90);
+	color: black;
+}
+
+div .display-4 {
+	color: black;
+}
+
+.lead {
+	color: black;
+	text-align: justify;
+}
+
+.my-1 {
+	color: black;
+}
+
+.text-justify {
+	padding: 20px;
+}
+
+#about-me {
+	background-color: rgba(255, 255, 255, 0.90);
+	padding: 0;
+
+}
+
+.card-title {
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-weight: bold;
+
+}
+.card-text {
+	color: black;
+	padding: 0;
+}
+
+.bg {
+	opacity: 90%;
+}
